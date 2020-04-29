@@ -1,4 +1,4 @@
-.App {
+/* .App {
     text-align: center;
   }
   
@@ -35,5 +35,214 @@
     to {
       transform: rotate(360deg);
     }
+  } */
+
+  /* container */
+  .container{
+    display: grid;
+	grid-gap: 20px;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   }
+  .block{
+    background-color: rgb(251, 255, 0);
+	height: 200px;
+	width: 200px;
+  }
+  .block1{
+    background-color: rgb(12,45,65);
+	height: 200px;
+	width: 200px;
+  }
+  .block2{
+    background-color: rgb(200,190,45);
+	height: 200px;
+	width: 200px;
+  }
+  .block3{
+    background-color: rgb(190,45,67);
+	height: 200px;
+	width: 200px;
+  }
+  .block4{
+    background-color: rgb(200,200,45);
+	height: 200px;
+	width: 200px;
+  }
+  .block5{
+    background-color: rgb(56,56,78);
+	height: 200px;
+	width: 200px;
+  }
+  .block6{
+    background-color: rgb(45,43,78);
+	height: 200px;
+	width: 200px;
+  }
+  .block7{
+    background-color: rgb(30,67,98);
+	height: 200px;
+	width: 200px;
+  }
+  .block8{
+    background-color: rgb(67,78,23);
+	height: 200px;
+	width: 200px;
+  }
+  .block9{
+    background-color: rgb(77,77,77);
+	height: 200px;
+	width: 200px;
+  }
+  .block10{
+    background-color: rgb(65,90,200);
+	height: 200px;
+	width: 200px;
+  }
+  .block11{
+    background-color: rgb(90,90,200);
+	height: 200px;
+	width: 200px;
+  }
+  .block12{
+    background-color: rgb(200,45,45);
+	height: 200px;
+	width: 200px;
+  }
+  .block13{
+    background-color: rgb(100,100,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block14{
+    background-color: rgb(80,45,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block15{
+    background-color: rgb(80,90,30);
+	height: 200px;
+	width: 200px;
+  }
+  .block16{
+    background-color: rgb(78,45,20);
+	height: 200px;
+	width: 200px;
+  }
+  .block17{
+    background-color: rgb(67,43,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block18{
+    background-color: rgb(80,45,255);
+	height: 200px;
+	width: 200px;
+  }
+  .block19{
+    background-color: rgb(56,56,70);
+	height: 200px;
+	width: 200px;
+  }
+  .block20{
+    background-color: rgb(70,23,67);
+	height: 200px;
+	width: 200px;
+  }
+  .block21{
+    background-color: rgb(80,90,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block22{
+    background-color: rgb(100,30,90);
+	height: 200px;
+	width: 200px;
+  }
+  .block23{
+    background-color: rgb(80,90,60);
+	height: 200px;
+	width: 200px;
+  }
+  .block24{
+    background-color: rgb(45,45,30);
+	height: 200px;
+	width: 200px;
+  }
+  .block25{
+    background-color: rgb(50,70,80);
+	height: 200px;
+	width: 200px;
+  }
+  .block26{
+    background-color: rgb(60,60,200);
+	height: 200px;
+	width: 200px;
+  }
+  .block27{
+    background-color: rgb(90,90,40);
+	height: 200px;
+	width: 200px;
+  }
+  .block28{
+    background-color: rgb(70,45,90);
+	height: 200px;
+	width: 200px;
+  }
+  .block29{
+    background-color: rgb(65,65,65);
+	height: 200px;
+	width: 200px;
+  }
+  .block30{
+    background-color: rgb(34,56,78);
+	height: 200px;
+	width: 200px;
+  }
+  .block31{
+    background-color: rgb(54,54,54);
+	height: 200px;
+	width: 200px;
+  }
+  .block32{
+    background-color: rgb(78,44,55);
+	height: 200px;
+	width: 200px;
+  }
+  .block33{
+    background-color: rgb(89,89,89);
+	height: 200px;
+	width: 200px;
+  }
+  .block34{
+    background-color: rgb(20,60,80);
+	height: 200px;
+	width: 200px;
+  }
+  .block35{
+    background-color: rgb(77,77,78);
+	height: 200px;
+	width: 200px;
+  }
+  .block36{
+    background-color: rgb(80,90,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block37{
+    background-color: rgb(40,60,70);
+	height: 200px;
+	width: 200px;
+  }
+  .block38{
+    background-color: rgb(80,90,100);
+	height: 200px;
+	width: 200px;
+  }
+  .block39{
+    background-color: rgb(50,50,50);
+	height: 200px;
+	width: 200px;
+  }
+
   
