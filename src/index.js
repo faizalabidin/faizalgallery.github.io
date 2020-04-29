@@ -1,16 +1,20 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React, {Component} from 'react'; //for component
+import ReactDOM from 'react-dom'; // for document object model
+import './index.css'; //
 import Gallery from './Gallery';
+// import fn from './Fn';
 import * as serviceWorker from './serviceWorker';
 
+
 ReactDOM.render(
-  // <React.StrictMode>
-  //   <Gallery />
-  // </React.StrictMode>
+ 
   
-  <div class="container">
-    
+    <div class="container">
+    <div>
+      <input id="txt1" placeholder="Input Color"></input><br></br>
+      <button onClick="fn()" id="btn1">Click Me</button><br></br>
+      {/* <p>Red,Yellow</p>   */}
+    </div>
     <div class="block"> </div>
     <div class="block1"> </div>
     <div class="block2"> </div>
